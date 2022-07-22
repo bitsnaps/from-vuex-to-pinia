@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "446da59e-c533-4cb9-82ba-968786c51168",
+      "category": "",
+      "title": "From Vuex to Pinia",
+      "description": "Migration of vue app from Vuex to Pinia",
+      "location": "VueMastery",
+      "date": "today",
+      "time": "now",
+      "organizer": "Adam Jahr"
     }
   ]
 }
