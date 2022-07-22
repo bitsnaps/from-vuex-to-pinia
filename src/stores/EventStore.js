@@ -6,6 +6,5 @@ export const useEventStore = defineStore('EventStore', {
             events: [],
             event: {}
         }
-    }
-    
+    }    
 })
